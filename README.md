@@ -3,7 +3,7 @@
 ---
 
 ### Sepolia(Testnet) deployed address 
-- [0x8cF231c0eD4ABacB1e9601cc06593992617b219a]
+- [https://sepolia.etherscan.io/address/0x8cF231c0eD4ABacB1e9601cc06593992617b219a]
 
 ---
 
